@@ -153,3 +153,9 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
+#projeto{
+    margin-top: 3em;
+    color: #cf0e0e;
+    font-style: italic;
+}
